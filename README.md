@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adharshini</h1>
 <h3 align="center">Learner</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligece and Machine Learning**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **Power BI**
 
